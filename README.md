@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Eugene</h1>
 <h3 align="center">Front-end developer</h3>
 
-- 📫 Contact emeil **eugene.ku000@gmail.com**
+- 📫 Contact email **eugene.ku000@gmail.com**
 
 <h3 align="left">Layout:</h3>
 <p align="left">
