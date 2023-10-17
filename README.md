@@ -1,5 +1,3 @@
-# eugene-kucherovsky
-
 <h1 align="center">Hey there 👋, I'm Eugene</h1>
 
 <h3 align="center">Front-end developer</h3>
