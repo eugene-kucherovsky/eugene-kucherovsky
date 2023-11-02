@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Eugene ! Front-end developer.</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=oswald&size=21&duration=3500&background=0000000F&center=true&vCenter=true&multiline=true&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Eugene+Front-end+developer.+(Neto))](https://git.io/typing-svg)
 
 - 📫 Contact email **eugene.ku000@gmail.com**
 
